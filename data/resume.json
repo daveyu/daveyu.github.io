@@ -1,0 +1,161 @@
+{
+  "summary": "An experienced and adaptable software engineer, with special interests in web application development, and bringing software and process together into effective tools that make life and work better.",
+  "skills": [ "Java", "JavaScript", "Ruby", "C#", "HTML", "SQL" ],
+  "education": {
+    "degree": "B.S. in Computer Science",
+    "institution": "University of California, San Diego, 2004"
+  },
+  "experiences": [
+    {
+      "employer": "YP",
+      "company_profile": "",
+      "location": "Glendale, CA",
+      "positions": [
+        {
+          "period": "2012 - Present",
+          "title": "Lead Software Engineer",
+          "department": "Production Operations Tools",
+          "achievements": [
+            {
+              "description": "Managed an agile team of six developers to provide development resources to the Production Operations group, which is responsible for all applications once they are released from QA to production. The team was responsible for a growing, diverse portfolio of over two dozen highly available services ranging from live application monitoring to issue tracking and source control.",
+              "skills": [ "Agile" ]
+            },
+            {
+              "description": "Led the development of a system that combined data from separate hardware, software and network device inventories into a centralized service to map, visualize and report on operational dependencies for change management and incident management. Implemented the web UI using AngularJS, atop a stack with a Sinatra web application and a Neo4j graph database.",
+              "skills": [ "AngularJS", "Sinatra", "Neo4j" ]
+            },
+            {
+              "description": "Developed web applications integrated with ActiveDirectory to allow corporate users to self-provision phone numbers and fax numbers.",
+              "skills": [ "jQuery", "Bootstrap" ]
+            },
+            {
+              "description": "Developed a web application integrated with the JIRA issue tracker to simplify the process of requesting IT support.",
+              "skills": [ "AngularJS", "Bootstrap" ]
+            },
+            {
+              "description": "Created a wallboard to display live web application performance metrics for the network operations center.",
+              "skills": [ "AngularJS" ]
+            }
+          ]
+        },
+        {
+          "period": "2010 - 2011",
+          "title": "Software Engineer",
+          "department": "Productivity and Collaboration Tools",
+          "achievements": [
+            {
+              "description": "Formalized and implemented a software development cycle where there previously was none.",
+              "skills": []
+            },
+            {
+              "description": "Developed Java and JavaScript plugins for Atlassian platform products, such as JIRA and Confluence. The plugins added automation to decrease clicks and time required for administrators to perform repetitive and error-prone tasks, as well as making the UI’s more informative for users within the company.",
+              "skills": []
+            },
+            {
+              "description": "Improved performance of the company’s JIRA and Confluence installations by 100% by performing performance profiling, identifying heavy usage patterns, and deploying on more appropriate hardware.",
+              "skills": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employer": "EMN8",
+      "company_profile": "2010 Red Herring 100 North America award winner was the leading provider of self-service order and payment systems for the Quick Service Restaurant and Fast Casual Dining industries.",
+      "location": "San Diego, CA",
+      "positions": [
+        {
+          "period": "2007 - 2010",
+          "title": "Lead Tools Engineer",
+          "department": "Software Engineering Department",
+          "achievements": [
+            {
+              "description": "Led design and implementation of a service to replicate Salesforce data to a local database server for consumption by internal applications. The system involved retrieving data from the Salesforce web service API, dynamically creating new Hibernate mappings, generating new POJO classes and deploying them to Tomcat web applications.",
+              "skills": [ "Hibernate", "Salesforce", "SQL Server" ]
+            },
+            {
+              "description": "Implemented the server-side components, in Java, for a kiosk reporting system that provided near real-time status of remotely deployed kiosks. The kiosk monitoring system was pivotal to gaining a major fast food brand’s full acceptance of the OrderM8 kiosk solution for their restaurants.",
+              "skills": [ "GWT", "ActiveMQ", "Spring", "Hibernate", "Nagios" ]
+            },
+            {
+              "description": "Filled the role of lead administrator and developer for JIRA. Initiated workflow and process changes, and developed JIRA plug-ins to improve software development business processes.",
+              "skills": []
+            },
+            {
+              "description": "Created a Java desktop application to automate quality control testing of kiosk hardware devices, reducing the number of kiosks deployed with faulty devices.",
+              "skills": [ "Eclipse RCP" ]
+            },
+            {
+              "description": "Developed a digital menu board prototype that became a centerpiece of the company’s showroom, and displayed for all visiting executives from client companies.",
+              "skills": [ "WPF" ]
+            }
+          ]
+        },
+        {
+          "period": "2005 - 2007",
+          "title": "Team Lead Software Engineer",
+          "department": "Brand Services Department",
+          "achievements": [
+            {
+              "description": "Led a team of up to six data technicians and acted as a liaison to the Software Development Department, along with increased involvement in core software development",
+              "skills": []
+            },
+            {
+              "description": "Implemented device drivers in Java for new coin dispenser hardware for the OrderM8 self-service kiosk.",
+              "skills": []
+            },
+            {
+              "description": "Designed and developed a client-facing ASP.NET web application for clients to create and track change requests for their kiosk menus, improving department efficiency by centralizing information which was previously tracked by e-mail and phone.",
+              "skills": [ "ASP.NET", "MySQL" ]
+            },
+            {
+              "description": "Created a Java SWT application to visualize and manage kiosk menu data. Previously, all data was managed by hand, using SQL queries. The application was showcased at tradeshows and was presented to potential clients.",
+              "skills": [ "SWT", "MySQL" ]
+            }
+          ]
+        },
+        {
+          "period": "2004 - 2005",
+          "title": "Software Engineer",
+          "department": "Brand Services Department",
+          "achievements": [
+            {
+              "description": "Designed and developed an ASP.NET web application for internal use to track projects and work items.",
+              "skills": [ "ASP.NET", "MySQL" ]
+            },
+            {
+              "description": "Created internal software tools to automate and/or increase the efficiency of tasks related to managing kiosk menu data.",
+              "skills": [ "Eclipse RCP", "MySQL" ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employer": "City of San Diego",
+      "company_profile": "",
+      "location": "San Diego, CA",
+      "positions": [
+        {
+          "period": "2003 - 2004",
+          "title": "Web Intern",
+          "department": "Web Team, Department of Information Technology and Communications ",
+          "achievements": [
+            {
+              "description": "Designed and developed an intranet web application for job tracking and workflow of web projects.",
+              "skills": [ "JSP", "JAXB" ]
+            },
+            {
+              "description": "Web Team received one of four “Top Pick for 2003” web site awards from MuniNet Guide for large cities.",
+              "skills": []
+            },
+            {
+              "description": "Web Team received San Diego City Council recognition for greater than 90% satisfaction ratings from citizen surveys.",
+              "skills": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

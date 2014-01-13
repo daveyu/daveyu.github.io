@@ -1,0 +1,21 @@
+.navbar-default {
+  background-color: ##F0F9FF;
+}
+
+.jumbotron {
+    background-color: white;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.inline {
+  display: inline;
+}
+
+.navbar-nav.navbar-right:last-child {
+  margin-right: 0px;
+}
+
+footer {
+  margin-bottom: 40px;
+}
