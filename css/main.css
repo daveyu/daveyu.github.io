@@ -27,3 +27,7 @@ footer {
 body {
   font-family: 'Lato', sans-serif;
 }
+
+.label {
+  font-weight: normal;
+}
