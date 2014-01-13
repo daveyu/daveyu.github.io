@@ -4,12 +4,12 @@
 
 .jumbotron {
     background-color: white;
-    padding-bottom: 0;
     margin-bottom: 0;
+    padding: 0;
 }
 
 .jumbotron p {
-  font-weight: 300`;
+  font-weight: 300;
 }
 
 .inline {
