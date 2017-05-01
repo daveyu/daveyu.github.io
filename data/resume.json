@@ -1,18 +1,61 @@
 {
-  "summary": "An experienced and adaptable software engineer, with special interests in web application development, and bringing software and process together into effective tools that make life and work better.",
-  "skills": [ "Java", "JavaScript", "Ruby", "C#", "HTML", "SQL" ],
+  "summary": "An experienced and adaptable software engineer, with special interests in full-stack web application development, web performance, and bringing software and process together into effective tools that make life and work better.",
+  "skills": [ "Ruby on Rails", "Node.js", "JavaScript", "CSS", "HTML" ],
   "education": {
     "degree": "B.S. in Computer Science",
     "institution": "University of California, San Diego, 2004"
   },
   "experiences": [
     {
+      "employer": "Spokeo",
+      "company_profile": "",
+      "location": "Pasadena, CA",
+      "positions": [
+        {
+          "period": "2016 - Present",
+          "title": "Principal Software Developer",
+          "department": "Front End Engineering",
+          "achievements": [
+            {
+              "description": "Provide technical leadership and management of day-to-day tasks for a small team of engineers chartered to monitor and improve the performance of Spokeo's website, including server response time,  client-side rendering, and everything in between. Worked closely with DevOps, QA, Product Management, and other engineering teams to continuously deliver performance improvements to the Spokeo web app stack.",
+              "skills": [ "Leadership", "Agile", "Web Performance", "Ruby on Rails" ]
+            },
+            {
+              "description": "Architected and implemented a highly-performant, scalable HTTP caching service that stores billions of HTML documents and serves the first byte within 40ms. In a context where every millisecond can have vast consequences, this cost-effective solution brought real-world response times of over 300ms down near 100ms, and was the subject of an AWS re:Invent 2016 Case Study (\"Spokeo Improved Web Application Response Times with EFS (STG206)\").",
+              "skills": [ "Node.js", "AWS" ]
+            },
+            {
+              "description": "Developed services and designed infrastructure to populate and manage the HTTP cache. With billions of HTML documents to render and store, these services drive fleets of Ruby on Rails applications to render web pages at rates over 600,000 requests/sec. Needing to optimize for every millisecond, this project also required monitoring and identifying bottlenecks in all services involved downstream, including Ruby on Rails applications, MySQL/Aurora databases, ElasticSearch clusters, and DynamoDB tables.",
+              "skills": [ "Ruby", "DevOps", "Performance" ]
+            }
+           ]
+        },
+        {
+          "period": "2014 - 2015",
+          "title": "Senior Software Developer",
+          "department": "Front End Engineering",
+          "achievements": [
+            {
+              "description": "Designed, implemented, and launched a prototype HTTP caching layer using a CDN to provide fast response times of SEO pages for search engine crawlers."
+            },
+            {
+              "description": "Full-stack development of new features for the Spokeo consumer website.",
+              "skills": [ "Ruby on Rails", "AngularJS", "CSS" ]
+            },
+            {
+              "description": "Helped develop new Agile SDLCs for Spokeo's growing engineering teams, and managed the technical aspects of migrating issue tracking and wiki content to Atlassian JIRA and Confluence."
+            }
+           ]
+        }
+       ]
+    },
+    {
       "employer": "YP",
       "company_profile": "",
       "location": "Glendale, CA",
       "positions": [
         {
-          "period": "2012 - Present",
+          "period": "2012 - 2014",
           "title": "Lead Software Engineer",
           "department": "Production Operations Tools",
           "achievements": [
