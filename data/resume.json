@@ -7,6 +7,27 @@
   },
   "experiences": [
     {
+      "employer": "Spokeo",
+      "company_profile": "",
+      "location": "Pasadena, CA",
+      "positions": [
+        {
+          "period": "2016 - Present",
+          "title": "Principal Software Developer",
+          "department": "Front End Engineering",
+          "achievements": [
+           ]
+        },
+        {
+          "period": "2014 - 2015",
+          "title": "Senior Software Developer",
+          "department": "Front End Engineering",
+          "achievements": [
+           ]
+        }
+       ]
+    },
+    {
       "employer": "YP",
       "company_profile": "",
       "location": "Glendale, CA",
