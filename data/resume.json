@@ -16,6 +16,18 @@
           "title": "Principal Software Developer",
           "department": "Front End Engineering",
           "achievements": [
+            {
+              "description": "Provide technical leadership and management of day-to-day tasks for a team of three engineers chartered to monitoring and improving the performance of Spokeo's website, including server response time,  client-side rendering, and everything in between. Worked closely with DevOps, QA, Product Management, and other engineering teams to continuously deliver performance improvements to the Spokeo web app stack.",
+              "skills": [ "Leadership", "Agile", "Web Performance", "Ruby on Rails" ]
+            },
+            {
+              "description": "Architected and implemented a highly-performant, scalable HTTP caching service that caches billions of HTML documents and serves the first byte within 40ms. In a context where every millisecond can have vast SEO consequences, this cost-effective solution brought real-world response times of over 300ms down near 100ms, and was the subject of an AWS re:Invent 2016 Case Study (\"Spokeo Improved Web Application Response Times with EFS (STG206)\").",
+              "skills": [ "Node.js", "AWS" ]
+            },
+            {
+              "description": "Developed complimentary services to populate the HTTP cache. With billions of HTML documents to render and store, these services drive fleets of Ruby on Rails applications to render responses at rates over 600,000 requests/sec. Needing to optimize for every millisecond, this project also required identifying bottlenecks in all services involved downstream.",
+              "skills": [ "Ruby", "Performance" ]
+            }
            ]
         },
         {
@@ -23,6 +35,16 @@
           "title": "Senior Software Developer",
           "department": "Front End Engineering",
           "achievements": [
+            {
+              "description": "Designed, implemented and launched a prototype HTTP caching layer using a CDN to provide fast response times of SEO pages for search engine crawlers."
+            },
+            {
+              "description": "Full-stack development of new features for the Spokeo consumer website.",
+              "skills": [ "Ruby on Rails", "AngularJS", "CSS" ]
+            },
+            {
+              "description": "Helped develop new Agile SDLCs for Spokeo's growing engineering teams, and managed the technical aspects of migrating issue tracking and wiki content to Atlassian JIRA and Confluence."
+            }
            ]
         }
        ]
@@ -33,7 +55,7 @@
       "location": "Glendale, CA",
       "positions": [
         {
-          "period": "2012 - Present",
+          "period": "2012 - 2014",
           "title": "Lead Software Engineer",
           "department": "Production Operations Tools",
           "achievements": [
