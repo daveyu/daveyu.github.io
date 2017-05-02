@@ -121,7 +121,7 @@
               "skills": [ "GWT", "ActiveMQ", "Spring", "Hibernate", "Nagios" ]
             },
             {
-              "description": "Filled the role of lead administrator and developer for JIRA. Initiated workflow and process changes, and developed JIRA plug-ins to improve software development business processes.",
+              "description": "Filled the role of lead administrator and developer for JIRA. Initiated workflow and process changes, and developed JIRA plugins to improve software development business processes.",
               "skills": []
             },
             {
@@ -152,7 +152,7 @@
               "skills": [ "ASP.NET", "MySQL" ]
             },
             {
-              "description": "Created a Java SWT application to visualize and manage kiosk menu data. Previously, all data was managed by hand, using SQL queries. The application was showcased at tradeshows and was presented to potential clients.",
+              "description": "Created a Java SWT application to visualize and manage kiosk menu data. Previously, all data was managed by hand, using SQL queries. The application was showcased at trade shows and was presented to potential clients.",
               "skills": [ "SWT", "MySQL" ]
             }
           ]
