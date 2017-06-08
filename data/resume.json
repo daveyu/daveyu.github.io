@@ -21,12 +21,12 @@
               "skills": [ "Leadership", "Agile", "Web Performance", "Ruby on Rails" ]
             },
             {
-              "description": "Architected and implemented a highly-performant, scalable HTTP caching service in AWS that stores billions of HTML documents and serves the first byte within 40ms. In a context where every millisecond can have vast consequences, this cost-effective solution brought real-world response times of over 300ms down near 100ms, and was the subject of an AWS re:Invent 2016 Case Study (\"Spokeo Improved Web Application Response Times with EFS (STG206)\").",
+              "description": "Architected and implemented a highly-performant, scalable Node.js HTTP caching service that stores billions of HTML documents and serves the first byte within 40ms. In a context where every millisecond can have vast consequences, this cost-effective solution brought real-world response times of over 300ms down near 100ms, and was the subject of an AWS re:Invent 2016 Case Study (\"Spokeo Improved Web Application Response Times with EFS (STG206)\").",
               "skills": [ "Node.js", "AWS" ]
             },
             {
               "description": "Developed services and designed infrastructure to populate and manage the HTTP cache. With billions of HTML documents to render and store, these services drive fleets of Ruby on Rails applications to render web pages at rates over 600,000 requests/sec, and utilize AWS EC2 Spot Fleets to minimize costs. Needing to optimize for every millisecond, this project also required monitoring and identifying bottlenecks in all services involved downstream, including Ruby on Rails applications, MySQL/Aurora databases, ElasticSearch clusters, and DynamoDB tables.",
-              "skills": [ "Ruby", "DevOps", "Performance" ]
+              "skills": [ "Ruby", "DevOps", "Concurrency" ]
             }
            ]
         },
