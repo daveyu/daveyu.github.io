@@ -14,7 +14,7 @@
         {
           "period": "2016 - Present",
           "title": "Principal Software Developer",
-          "department": "Front End Engineering",
+          "department": "",
           "achievements": [
             {
               "description": "Provide technical leadership and management of day-to-day tasks for a small team of engineers chartered to monitor and improve the performance of Spokeo's website, including server response time,  client-side rendering, and everything in between. Worked closely with DevOps, QA, Product Management, and other engineering teams to continuously deliver performance improvements to the Spokeo web app stack.",
@@ -33,7 +33,7 @@
         {
           "period": "2014 - 2015",
           "title": "Senior Software Developer",
-          "department": "Front End Engineering",
+          "department": "",
           "achievements": [
             {
               "description": "Designed, implemented, and launched a prototype HTTP caching layer using a CDN to provide fast response times of SEO pages for search engine crawlers."
