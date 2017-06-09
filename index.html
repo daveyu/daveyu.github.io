@@ -74,7 +74,7 @@
             <div class="col-md-10">
               <h5>
                 {{ position.title }}
-                <span ng-if="position.department.length > 0">, {{ position.department }}</span>
+                <span ng-if="position.department.length > 0">({{ position.department }})</span>
               </h5>
               <ul>
                 <li ng-repeat="achievement in position.achievements">

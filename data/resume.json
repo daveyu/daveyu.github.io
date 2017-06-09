@@ -1,6 +1,6 @@
 {
   "summary": "An experienced and adaptable software engineer, with special interests in full-stack web application development, web performance, and bringing software and process together into effective tools that make life and work better.",
-  "skills": [ "Ruby on Rails", "Node.js", "JavaScript", "CSS", "HTML" ],
+  "skills": [ "Ruby on Rails", "JavaScript", "Node.js", "HTML", "CSS" ],
   "education": {
     "degree": "B.S. in Computer Science",
     "institution": "University of California, San Diego, 2004"
@@ -182,7 +182,7 @@
         {
           "period": "2003 - 2004",
           "title": "Web Intern",
-          "department": "Web Team, Department of Information Technology and Communications ",
+          "department": "Web Team, Department of Information Technology and Communications",
           "achievements": [
             {
               "description": "Designed and developed an intranet web application for job tracking and workflow of web projects.",
