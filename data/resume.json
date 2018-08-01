@@ -7,6 +7,32 @@
   },
   "experiences": [
     {
+      "employer": "Joany",
+      "company_profile": "",
+      "location": "Downtown Los Angeles, CA",
+      "positions": [
+        {
+          "period": "November 2017 - July 2018",
+          "title": "Senior Software Engineer",
+          "department": "",
+          "achievements": [
+            {
+              "description": "Implemented migration of the core Ruby on Rails application from Heroku to Kubernetes on AWS. Performed management and troubleshooting of Kubernetes clusters using Terraform and Kops across multiple AWS accounts."
+            },
+            {
+              "description": "Configured continuous integration and continuous delivery pipelines in Codefresh, using Docker compositions for test suites and Helm charts for deployment to Kubernetes clusters."
+            },
+            {
+              "description": "Provided engineering leadership to drive process improvements, including implementing a Kanban process for the engineering team to more adeptly shift with product requirement and priority changes. "
+            },
+            {
+              "description": "Performed code reviews and architectural and design reviews, and mentored junior developers."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "employer": "Spokeo",
       "company_profile": "",
       "location": "Pasadena, CA",
