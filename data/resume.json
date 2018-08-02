@@ -1,5 +1,5 @@
 {
-  "summary": "An experienced and adaptable software engineer, with special interests in full-stack web application development, web performance, and bringing software and process together into effective tools that make life and work better.",
+  "summary": "Experienced and adaptable software engineer, with special interests in full-stack web application development, developer tooling and bringing software and process together into effective tools that make life and work better. Also adept in agile process management and many aspects of DevOps.",
   "skills": [ "Ruby on Rails", "Web Application Architecture", "DevOps"  ],
   "education": {
     "degree": "B.S. in Computer Science",
@@ -9,7 +9,7 @@
     {
       "employer": "Joany",
       "company_profile": "",
-      "location": "Downtown Los Angeles, CA",
+      "location": "Los Angeles, CA",
       "positions": [
         {
           "period": "2017 - 2018",
@@ -17,13 +17,13 @@
           "department": "",
           "achievements": [
             {
-              "description": "Implemented migration of the core Ruby on Rails application from Heroku to Kubernetes on AWS. Performed management and troubleshooting of Kubernetes clusters using Terraform and Kops across multiple AWS accounts."
+              "description": "Implemented migration of the core Ruby on Rails application from Heroku to Kubernetes on AWS and managed project requirements, expectations and progress with stakeholders and consultants. Performed management and troubleshooting of Kubernetes clusters using Terraform and Kops across multiple AWS accounts."
             },
             {
               "description": "Configured continuous integration and continuous delivery pipelines in Codefresh, using Docker compositions for test suites and Helm charts for deployment to Kubernetes clusters."
             },
             {
-              "description": "Provided engineering leadership to drive process improvements, including implementing a Kanban process for the engineering team to more adeptly shift with product requirement and priority changes. "
+              "description": "Provided engineering leadership to drive process improvements, including implementing a Kanban process for the engineering team to more adeptly shift with product requirement and priority changes. Created issue tracking boards, workflows and reports in JIRA to support and communicate our process as it evolved."
             },
             {
               "description": "Performed code reviews and architectural and design reviews, and mentored junior developers."
