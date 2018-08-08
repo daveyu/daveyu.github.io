@@ -49,19 +49,6 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-6 core-skills">
-          <h2>Core Technical Skills</h2>
-          <ul class="list-inline" ng-cloak>
-            <li ng-repeat="skill in resume.skills"><h4><span class="label label-primary">{{skill}}</span></h4></li>
-          </ul>
-        </div>
-        <div class="col-md-6">
-          <h2>Education</h2>
-          <h4 ng-cloak>{{ resume.education.degree }}<br/>{{ resume.education.institution }}</h4>
-        </div>
-      </div>
-      <hr/>
-      <div class="row">
         <div class="col-md-12">
           <h2>Professional Experience</h2>
         </div>
@@ -83,6 +70,13 @@
               </ul>
             </div>
           </div>
+        </div>
+      </div>
+      <hr/>
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Education</h2>
+          <h4 ng-cloak>{{ resume.education.degree }}<br/>{{ resume.education.institution }}</h4>
         </div>
       </div>
     </div>
